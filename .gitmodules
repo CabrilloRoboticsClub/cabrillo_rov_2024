@@ -1,0 +1,9 @@
+[submodule "setup"]
+	path = setup
+	url = https://github.com/CabrilloRoboticsClub/setup
+[submodule "src/deck"]
+	path = src/deck
+	url = https://github.com/CabrilloRoboticsClub/deck
+[submodule "src/rov"]
+	path = src/rov
+	url = https://github.com/CabrilloRoboticsClub/rov
