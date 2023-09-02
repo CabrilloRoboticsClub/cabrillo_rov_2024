@@ -52,12 +52,21 @@ Cabrillo Robotics has great ambitions improvements and enhancements for software
 
 ### Sub-teams
 The Cabrillo Robotics software team is divided into sub-teams:  
-- 🔴 UX/input
-- 🟠 Hardware integration
-- 🟡 Control systems
-- 🔵 Management
-- 🟣 Infrastructure
-- ⚪️ Computer vision and AI 
+| Sub-team | Members | 
+| :--- | :--- | 
+| 🔴 **UX/input** | Michael T, Massimo Ginella, Stephanie L'Heureux | 
+| 🟠 **Hardware integration** | Orion Ellefson, Theo Paris, Alexander Rieke, Isaac Eda, Michael T, Massimo Ginella|
+| 🟡 **Control systems** | Liam Gilligan, Kate Wolsfeld, Michael T, Massimo Ginella, Stephanie L'Heureux | 
+| 🔵 **Management** | Orion Ellefson, Liam Gilligan | 
+| 🟣 **Infrastructure** | Orion Ellefson, Alexander Rieke | Michael T |
+| ⚪️ **Computer vision and AI** | Orion Ellefson, Liam Gilligan, Massimo Ginella |
+
+**Lead Software Engineer:** Orion Ellefson
+
+<br>
+
+### Meet the team
+FIXME
 
 <br>
 
@@ -81,7 +90,7 @@ Codebase of the SeaHawk ROV
 
 ---
 ## Getting Started
-FIXME
+
 
 <br>
 
