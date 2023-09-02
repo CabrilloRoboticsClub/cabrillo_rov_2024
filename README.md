@@ -53,17 +53,17 @@ Cabrillo Robotics has great ambitions improvements and enhancements for software
 <br>
 
 ### The team
-| Member | Github Tag | Major | Sub-team | 
-| :--- | :--- | :---- | :---: | 
-| Orion Ellefson | @OrionOth | Computer Science | ⭐️ 🟠 🔵 🟣 ⚪️ | 
-| Isaac Eda | @IzckEda | Electrical Engineering |🟠 | 
-| Liam Gilligan | @liamgilligan| | 🟡 🔵 ⚪️ | 
-| Massimo Ginella | | | 🔴 🟠 🟡 ⚪️ |
-| Stephanie L'Heureux | @steph1111 | Software Engineering/Mechatronics| | 🔴 🟡 | 
-| Theo Paris | @theoparis | | 🟠 | 
-| Alexander Rieke | @alexandramendesss | | 🟠 🟣 | 
+| Member | Github | Major | Sub-team | 
+| :--- | :--- | :---- | :--- | 
+| Orion Ellefson | [@OrionOth](https://github.com/OrionOth) | Computer Science | ⭐️ 🟠 🔵 🟣 ⚪️ | 
+| Isaac Eda | [@IzckEda](https://github.com/IzckEda) | Electrical Engineering |🟠 | 
+| Liam Gilligan | [@liamgilligan](https://github.com/liamgilligan)| | 🟡 🔵 ⚪️ | 
+| Massimo Ginella | [@tinymassi](https://github.com/tinymassi) | | 🔴 🟠 🟡 ⚪️ |
+| Stephanie L'Heureux | [@steph1111](https://github.com/steph1111) | Software Engineering/Mechatronics| | 🔴 🟡 | 
+| Theo Paris | [@theoparis](https://github.com/theoparis) | | 🟠 | 
+| Alexander Rieke | [@alexandramendesss](https://github.com/alexandramendesss) | | 🟠 🟣 | 
 | Michael T | | Electrical Engineering | 🔴 🟠 🟡 🟣 | 
-| Kate Wolsfeld | @Katewolsfeld10 | | 🟡 | 
+| Kate Wolsfeld | [@Katewolsfeld10](https://github.com/Katewolsfeld10) | | 🟡 | 
 
 
 <br>
