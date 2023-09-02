@@ -28,7 +28,7 @@
         <li><a href="#meet-the-team">Meet the team</a>
         <li><a href="#setup-">Setup</a>
         <li><a href="#deck-">Deck</a>
-        <li><a href="#rov->ROV"</a>
+        <li><a href="#rov-">ROV"</a>
       </ol>
     <li><a href="#getting-started">Getting started</a></li>
     <li><a href="#run">Run</a></li>
@@ -52,7 +52,25 @@ Cabrillo Robotics has great ambitions improvements and enhancements for software
 
 <br>
 
+### Meet the team
+| Member | Major | Bio | Sub-team | 
+| :--- | :--- | :---- | :---: | 
+| Orion Ellefson | Computer Science | Hello, I'm Orion Ellefson. I use They/Him pronouns, and I'm currently in my second semester at Cabrillo, majoring in Computer Science, though I might switch to something on the hardware side? Either way, I'm excited to be here. | ⭐️ 🟠 🔵 🟣 ⚪️ | 
+| Isaac Eda | Electrical Engineering| I like to do engineering projects, so I'm excited to join the team. I do CAD, (f360, solidworks, KiCAD), some programming, some circuit design, 3d printing and TIG welding. |🟠 | 
+| Liam Gilligan | | | 🟡 🔵 ⚪️ | 
+| Massimo Ginella | | | 🔴 🟠 🟡 ⚪️ |
+| Stephanie L'Heureux | Software Engineering/Mechatronics| | 🔴 🟡 | 
+| Theo Paris | | My name is Theo and I have some  coding experience (self-taught for at least 4 years now). I am also taking the CS11 class as well. I used to have a 3D printer but its been a while since I've used any CAD software although I am interested in learning more. | 🟠 | 
+| Alexander Rieke | | | 🟠 🟣 | 
+| Michael T | Electrical Engineering | | 🔴 🟠 🟡 🟣 | 
+| Kate Wolsfeld | | | 🟡 | 
+
+
+<br>
+
 ### Sub-teams
+**⭐️ Lead Software Engineer:** Orion Ellefson
+
 The Cabrillo Robotics software team is divided into sub-teams:  
 | Sub-team | Members | 
 | :--- | :--- | 
@@ -60,15 +78,9 @@ The Cabrillo Robotics software team is divided into sub-teams:
 | 🟠 **Hardware integration** | Orion Ellefson, Theo Paris, Alexander Rieke, Isaac Eda, Michael T, Massimo Ginella|
 | 🟡 **Control systems** | Liam Gilligan, Kate Wolsfeld, Michael T, Massimo Ginella, Stephanie L'Heureux | 
 | 🔵 **Management** | Orion Ellefson, Liam Gilligan | 
-| 🟣 **Infrastructure** | Orion Ellefson, Alexander Rieke | Michael T |
+| 🟣 **Infrastructure** | Orion Ellefson, Alexander Rieke, Michael T |
 | ⚪️ **Computer vision and AI** | Orion Ellefson, Liam Gilligan, Massimo Ginella |
 
-**Lead Software Engineer:** Orion Ellefson
-
-<br>
-
-### Meet the team
-FIXME
 
 <br>
 
@@ -92,6 +104,9 @@ Codebase of the SeaHawk ROV
 
 ---
 ## Getting Started
+| Operating system | Docs | 
+| :--- | :--- | 
+| | [ROS2 with WSL](https://github.com/CabrilloRoboticsClub/cabrillo_rov_2024/blob/doc/doc/System%20setup/ROS2_with_WSL.md) |
 
 
 <br>
