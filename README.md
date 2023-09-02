@@ -64,8 +64,8 @@ Cabrillo Robotics has great ambitions improvements and enhancements for software
 | Michael Matthews | | n/a | |
 | Theo Paris | [@theoparis](https://github.com/theoparis) | Computer Science | 🟠 | 
 | Alexander Rieke | [@alexandramendesss](https://github.com/alexandramendesss) | Computer Engineering | 🟠 🟣 | 
-| Teo Schnell  |  | Aerospace Engineering | ⭐️ 🟠 🔵 🟣 ⚪️ | 
-| Michael Tobias | | Electrical Engineering | 🔴 🟠 🟡 🟣 | 
+| Teo Schnell  |  | Aerospace Engineering |  | 
+| Michael Tobias | | Electrical Engineering |  | 
 | Kate Wolsfeld | [@Katewolsfeld10](https://github.com/Katewolsfeld10) | | 🟡 | 
 
 
