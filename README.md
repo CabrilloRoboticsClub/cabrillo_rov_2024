@@ -28,7 +28,7 @@
         <li><a href="#meet-the-team">Meet the team</a>
         <li><a href="#setup-">Setup</a>
         <li><a href="#deck-">Deck</a>
-        <li><a href="#rov-">ROV"</a>
+        <li><a href="#rov-">ROV</a>
       </ol>
     <li><a href="#getting-started">Getting started</a></li>
     <li><a href="#run">Run</a></li>
@@ -64,7 +64,7 @@ Cabrillo Robotics has great ambitions improvements and enhancements for software
 | Michael Matthews | | n/a | |
 | Theo Paris | [@theoparis](https://github.com/theoparis) | Computer Science | 🟠 | 
 | Alexander Rieke | [@alexandramendesss](https://github.com/alexandramendesss) | Computer Engineering | 🟠 🟣 | 
-| Teo Schnell  | [@OrionOth](https://github.com/OrionOth) | Aerospace Engineering | ⭐️ 🟠 🔵 🟣 ⚪️ | 
+| Teo Schnell  |  | Aerospace Engineering | ⭐️ 🟠 🔵 🟣 ⚪️ | 
 | Michael Tobias | | Electrical Engineering | 🔴 🟠 🟡 🟣 | 
 | Kate Wolsfeld | [@Katewolsfeld10](https://github.com/Katewolsfeld10) | | 🟡 | 
 
@@ -102,8 +102,6 @@ User interface for the SeaHawk ROV
 Codebase of the SeaHawk ROV
 
 <br>
-
-<!-- GETTING STARTED -->
 
 ---
 ## Getting Started
