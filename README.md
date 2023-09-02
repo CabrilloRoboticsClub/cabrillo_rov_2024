@@ -52,18 +52,18 @@ Cabrillo Robotics has great ambitions improvements and enhancements for software
 
 <br>
 
-### Meet the team
-| Member | Major | Bio | Sub-team | 
+### The team
+| Member | Github Tag | Major | Sub-team | 
 | :--- | :--- | :---- | :---: | 
-| Orion Ellefson | Computer Science | Hello, I'm Orion Ellefson. I use They/Him pronouns, and I'm currently in my second semester at Cabrillo, majoring in Computer Science, though I might switch to something on the hardware side? Either way, I'm excited to be here. | ⭐️ 🟠 🔵 🟣 ⚪️ | 
-| Isaac Eda | Electrical Engineering| I like to do engineering projects, so I'm excited to join the team. I do CAD, (f360, solidworks, KiCAD), some programming, some circuit design, 3d printing and TIG welding. |🟠 | 
-| Liam Gilligan | | | 🟡 🔵 ⚪️ | 
+| Orion Ellefson | @OrionOth | Computer Science | ⭐️ 🟠 🔵 🟣 ⚪️ | 
+| Isaac Eda | @IzckEda | Electrical Engineering |🟠 | 
+| Liam Gilligan | @liamgilligan| | 🟡 🔵 ⚪️ | 
 | Massimo Ginella | | | 🔴 🟠 🟡 ⚪️ |
-| Stephanie L'Heureux | Software Engineering/Mechatronics| | 🔴 🟡 | 
-| Theo Paris | | My name is Theo and I have some  coding experience (self-taught for at least 4 years now). I am also taking the CS11 class as well. I used to have a 3D printer but its been a while since I've used any CAD software although I am interested in learning more. | 🟠 | 
-| Alexander Rieke | | | 🟠 🟣 | 
-| Michael T | Electrical Engineering | | 🔴 🟠 🟡 🟣 | 
-| Kate Wolsfeld | | | 🟡 | 
+| Stephanie L'Heureux | @steph1111 | Software Engineering/Mechatronics| | 🔴 🟡 | 
+| Theo Paris | @theoparis | | 🟠 | 
+| Alexander Rieke | @alexandramendesss | | 🟠 🟣 | 
+| Michael T | | Electrical Engineering | 🔴 🟠 🟡 🟣 | 
+| Kate Wolsfeld | @Katewolsfeld10 | | 🟡 | 
 
 
 <br>
