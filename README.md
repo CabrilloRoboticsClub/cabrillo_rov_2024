@@ -105,8 +105,10 @@ Codebase of the SeaHawk ROV
 ---
 ## Getting Started
 | Operating system | Docs | 
-| :--- | :--- | 
-| | [ROS2 with WSL](https://github.com/CabrilloRoboticsClub/cabrillo_rov_2024/blob/doc/doc/System%20setup/ROS2_with_WSL.md) |
+| :---: | :--- | 
+|![windows](https://github.com/CabrilloRoboticsClub/cabrillo_rov_2024/assets/96219204/17ca5854-c89f-4eac-8589-81a138e02a6d) | [ROS2_with_WSL](https://github.com/CabrilloRoboticsClub/cabrillo_rov_2024/tree/doc/doc/System%20setup) | 
+|![linux svg](https://github.com/CabrilloRoboticsClub/cabrillo_rov_2024/assets/96219204/db8bf42e-1a69-4df4-aa75-152a18949f04)| TODO | 
+|![apple](https://github.com/CabrilloRoboticsClub/cabrillo_rov_2024/assets/96219204/cb24582c-a7f9-4f2f-b7ec-0c75820b6719)| Rip mac users 😔| 
 
 
 <br>
