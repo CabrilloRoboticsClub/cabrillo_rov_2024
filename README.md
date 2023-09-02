@@ -20,16 +20,18 @@
 <details>
   <summary>Table of contents</summary>
   <ol>
-    <li><a href="#SeaHawk">SeaHawk</a>
+    <li><a href="#seahawk-ii">SeaHawk II</a>
       <ol>
-        <li><a href="#ROS2">ROS2</a>
-        <li><a href="#Software-goals">Software goals</a>
-        <li><a href="#Sub-teams">Sub-teams</a>
-        <li><a href="#Setup">Setup</a>
-        <li><a href="#Deck">Deck</a>
-        <li><a href="#ROV">ROV</a>
+        <li><a href="#ros2">ROS2</a>
+        <li><a href="#software-goals">Software goals</a>
+        <li><a href="#sub-teams">Sub-teams</a>
+        <li><a href="#meet-the-team">Meet the team</a>
+        <li><a href="#setup-">Setup</a>
+        <li><a href="#deck-">Deck</a>
+        <li><a href="#rov->ROV"</a>
       </ol>
-    <li><a href="#Getting-started">Getting started</a></li>
+    <li><a href="#getting-started">Getting started</a></li>
+    <li><a href="#run">Run</a></li>
   </ol>
 </details>
 <br>
