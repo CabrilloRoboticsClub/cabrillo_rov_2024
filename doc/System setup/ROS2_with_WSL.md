@@ -2,7 +2,7 @@
 1. Open `Windows PowerShell` as administrator
 2. Install wsl by entering the following command
 	```shell
-	`wsl --install`
+	wsl --install
 	```
 
 3. Open the Microsoft store and download the latest version of [Ubuntu](https://apps.microsoft.com/store/detail/ubuntu-22042-lts/9PN20MSR04DW)
@@ -81,65 +81,30 @@
 	```shell
 	source /opt/ros/humble/setup.bash
 	```
+5. `rosdep` is a command-line tool for installing system dependencies
+   ```shell
+   sudo rosdep init  
+   rosdep update  
+   ```
 
 ### Install package specific to our project
-FIXME: Finish this 
+*Note: This is for [cabrillo_rov_2023](https://github.com/CabrilloRoboticsClub/cabrillo_rov_2023)*
+1. FIXME
+	```shell
+	sudo apt install libavdevice-dev libavformat-dev libavcodec-dev libavutil-dev libswscale-dev 
+	```
+2. Install the packages required for the cameras 
+   ```shell
+   sudo apt install ros-humble-v4l2-camera ros-humble-image-transport-plugins v4l-utils
+   sudo apt install ros-humble-camera-calibration 
+	```
+3. Make the file
+   ```make
+   make 
+   make clean
+	```
+4. Source the setup files
+	```shell
+	source /opt/ros/humble/setup.bash 
+	```
 
-Here are the commands I ran
-ssh-keygen  
-cat ~/.ssh/id_rsa.pub  
-git clone git@github.com:CabrilloRoboticsClub/cabrillo_rov_2023.git  
-xterm  
-sudu apt install xterm  
-sudo apt install xterm  
-sudo apt update  
-sudo apt install xterm  
-xterm  
-locale  
-sudo apt install software-properties-common  
-sudo add-apt-repository universe  
-sudo apt update && sudo apt install curl -y  
-sudo curl -sSL [https://raw.githubusercontent.com/ros/rosdistro/master/ros.key](https://raw.githubusercontent.com/ros/rosdistro/master/ros.key) -o /usr/share/keyrings/ros-archive-keyring.gpg  
-echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] [http://packages.ros.org/ros2/ubuntu](http://packages.ros.org/ros2/ubuntu) $(. /etc/os-release && echo $UBUNTU_CODENAME) main" | sudo tee /etc/apt/sources.list.d/ros2.list > /dev/null  
-sudo apt update  
-sudo apt upgrade  
-sudo apt install ros-humble-desktop  
-sudo apt install ros-dev-tools  
-git submodule init  
-git submodule update  
-make  
-source /opt/ros/humble/setup.bash  
-make  
-rosdep update  
-sudo rosdep init  
-rosdep update  
-make  
-sudo apt install libavdevice-dev libavformat-dev libavcodec-dev libavutil-dev libswscale-dev  
-make  
-sudo apt install ros-humble-v4l2-camera ros-humble-image-transport-plugins v4l2-utils  
-sudo apt install ros-humble-v4l2-camera ros-humble-image-transport-plugins v4l-utils  
-make  
-sudo apt install ros-humble-camera-calibration  
-make  
-sudo apt install ros-humble-camera-calibration  
-make  
-make clean  
-make  
-LS  
-ls  
-cd  
-ls  
-ls -a  
-cat .bash_history  
-rov$ ros2 run image_transport h264_cam_node --ros-args -p input_fn:='/dev/video0' -p fps:=30 -p size:='640x480'  
-ros2 run image_transport h264_cam_node --ros-args -p input_fn:='/dev/video0' -p fps:=30 -p size:='640x480'  
-ls  
-cd cabrillo_rov_2023/  
-source ./install/local_setup.bash  
-ros2 run image_transport h264_cam_node --ros-args -p input_fn:='/dev/video0' -p fps:=30 -p size:='640x480'  
-source /opt/ros/humble/setup.bash  
-ros2 run image_transport h264_cam_node --ros-args -p input_fn:='/dev/video0' -p fps:=30 -p size:='640x480'  
-ros2 run h264_image_transport h264_cam_node --ros-args -p input_fn:='/dev/video0' -p fps:=30 -p size:='640x480'  
-ros2 run h264_image_transport h264_cam_node  
-ros2 run h264_image_transport h264_cam_node --ros-args -p input_fn:='/dev/video0' -p fps:=30 -p size:='640x480'  
-ros2 topic list  
