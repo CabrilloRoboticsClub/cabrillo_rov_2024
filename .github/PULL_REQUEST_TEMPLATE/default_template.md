@@ -1,5 +1,5 @@
 ## Type of change
-Please delete options that are not relevant.
+<!-- Please delete options that are not relevant -->
 - [ ] Bug
 - [ ] Documentation
 - [ ] Feature
