@@ -1,5 +1,5 @@
 ---
-name: 'Functional: Bug'
+name: 'Bug'
 about: Bug Report
 title: Issue title
 labels: bug
