@@ -1,9 +1,10 @@
 [submodule "setup"]
 	path = setup
-	url = https://github.com/CabrilloRoboticsClub/setup
-[submodule "src/deck"]
-	path = src/deck
-	url = https://github.com/CabrilloRoboticsClub/deck
-[submodule "src/rov"]
-	path = src/rov
-	url = https://github.com/CabrilloRoboticsClub/rov
+  url = ../setup # setup scripts and things
+  update = checkout
+  ignore = none
+[submodule "src"]
+	path = src
+	url = ../ROV # all the source code is bundled here
+  update = checkout
+  ignore = none # maybe change this to `dirty`?
