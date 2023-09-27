@@ -10,14 +10,14 @@ assignees: ''
 
 ## What
 <!-- What are we documenting -->
-<!-- Add relivant code here -->
+<!-- Add relevant code here -->
 
 ## Context
 <!-- Why do we need this documentation -->
 
 ## Documentation location
 <!-- Where are we changing/adding documentation -->
-<!-- Link a relivant file(s) if applicable -->
+<!-- Link relevant file(s) if applicable -->
 
 ## References
 <!-- Reference any links that you think could be useful -->
