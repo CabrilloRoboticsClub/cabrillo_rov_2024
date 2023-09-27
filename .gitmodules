@@ -1,0 +1,10 @@
+[submodule "setup"]
+	path = setup
+	url = ../setup.git
+  update = checkout
+  ignore = none
+[submodule "source"]
+	path = src
+	url = ../ROV.git
+  update = checkout
+  ignore = none # maybe change this to `dirty`?
