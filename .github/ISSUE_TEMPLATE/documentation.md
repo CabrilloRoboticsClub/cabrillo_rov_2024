@@ -1,5 +1,5 @@
 ---
-name: Documemnation
+name: Documentation
 about: Add documentation
 title: ''
 labels: documentation
