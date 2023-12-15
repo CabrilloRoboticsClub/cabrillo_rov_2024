@@ -1,10 +1,11 @@
 [submodule "setup"]
-	path = setup
-	url = ../setup.git
+  path = setup
+  url = ../setup.git
+  branch = seahawk_2
   update = checkout
   ignore = none
 [submodule "source"]
-	path = src
-	url = ../ROV.git
+  path = src
+  url = ../ROV.git
   update = checkout
   ignore = none # maybe change this to `dirty`?
